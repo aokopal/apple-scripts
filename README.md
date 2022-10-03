@@ -1,11 +1,11 @@
-# Apple Scripts
-
-Various Apple Scripts used to improve your everyday quality of life
-
+# Productivity
+Various scripts & tools used to improve your everyday quality of life
 
 
 ## Development
 ### Useful Tools
+
+Apple Scripts
 
 - [Script Debugger 8](https://latenightsw.com/) - 
 Script Debugger is an integrated development environment focused entirely on AppleScript. This focus allows it to deliver a suite of tools that make AppleScript development amazingly productive. You can use it to write and edit code, analyze target applications, debug scripts, and more
