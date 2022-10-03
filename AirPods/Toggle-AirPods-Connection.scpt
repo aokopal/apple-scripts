@@ -1,7 +1,7 @@
 tell application "System Events"
 	tell its application process "ControlCenter"
 		try
-			click menu bar item "Bluetooth" of menu bar 1
+			click menu bar item "Sound" of menu bar 1
 			tell window 1
 				UI elements
 				tell scroll area 1
